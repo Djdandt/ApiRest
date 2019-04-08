@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: APIRest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Danilo Kenzo
+Implementation-Vendor-Id: br.com.everis
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/APIRest
+Created-By: Maven Integration for Eclipse
+
